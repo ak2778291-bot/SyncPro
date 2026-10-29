@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3580 674" width="3580" height="674">
+<rect width="100%" height="100%" fill="#0a0f1c"/>
+<defs><marker id="a" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="rgba(148,163,184,0.38)"/></marker>
+<marker id="ac" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#f43f5e" opacity=".7"/></marker></defs>
+<line x1="107.34705073239141" y1="77.5306995712653" x2="268.71043773751967" y2="203.3941414352653" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="3111.593287850635" y1="380.21069113087384" x2="3263.499146728766" y2="409.8323336121094" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="311.59328785063497" y1="224.2106911308738" x2="463.49914672876616" y2="253.8323336121094" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="512" y1="259" x2="663" y2="259" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="108.63309110213558" y1="227.26690552983288" x2="266.7086361223305" y2="288.9163680877089" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="309.95788341005544" y1="296.7027375783464" x2="863.0568573964251" y2="260.7513042692324" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="712" y1="259" x2="863" y2="259" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="912" y1="259" x2="1063" y2="259" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="1111.593287850635" y1="263.21069113087384" x2="1263.4991467287662" y2="292.8323336121094" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="1311.593287850635" y1="293.78930886912616" x2="1463.4991467287662" y2="264.1676663878906" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="1510.496400212349" y1="266.99359608281617" x2="1664.845327012117" y2="327.1896775347256" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="109.88366191078049" y1="144.1540633736679" x2="1863.1570564204465" y2="334.09201444554833" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="1712" y1="337" x2="1863" y2="337" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="1912" y1="337" x2="2063" y2="337" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="2112" y1="337" x2="2265" y2="337" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2110.4964002123493" y1="329.00640391718383" x2="2264.8453270121167" y2="268.8103224652744" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="2311.593287850635" y1="263.21069113087384" x2="2463.499146728766" y2="292.8323336121094" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="2508.9893464928364" y1="286.8912323016907" x2="2666.69489294061" y2="194.63348762974326" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="2508.9893464928364" y1="309.1087676983093" x2="2668.421197167231" y2="402.3764003428303" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2511.593287850635" y1="302.21069113087384" x2="2665.4621728970055" y2="332.2151237149161" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2511.593287850635" y1="293.78930886912616" x2="2665.4621728970055" y2="263.7848762850839" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2707.3470507323914" y1="194.5306995712653" x2="2868.7104377375194" y2="320.39414143526534" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="2911.593287850635" y1="341.21069113087384" x2="3063.499146728766" y2="370.8323336121094" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="3111.593287850635" y1="371.78930886912616" x2="3265.4621728970055" y2="341.7848762850839" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2110.4964002123493" y1="344.99359608281617" x2="2266.7086361223305" y2="405.9163680877089" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="109.98944586012215" y1="298.649656990454" x2="2465.0131926748472" y2="375.18792876193254" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2309.6302616823955" y1="411.1720989719329" x2="2465.4621728970055" y2="380.7848762850839" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="3109.6302616823955" y1="294.1720989719329" x2="3265.4621728970055" y2="263.7848762850839" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2710.4964002123493" y1="188.99359608281617" x2="2866.7086361223305" y2="249.9163680877089" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2909.6302616823955" y1="262.8279010280671" x2="3065.4621728970055" y2="293.2151237149161" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2507.263042266215" y1="386.09887972573574" x2="2668.421197167231" y2="480.3764003428303" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="1309.9305218881066" y1="377.6656221863632" x2="2665.086847639867" y2="490.917972267046" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="1309.6302616823955" y1="379.8279010280671" x2="1465.4621728970058" y2="410.2151237149161" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="110" y1="376" x2="265" y2="376" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="309.6302616823954" y1="372.1720989719329" x2="465.4621728970057" y2="341.7848762850839" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="510" y1="337" x2="665" y2="337" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="710" y1="337" x2="865" y2="337" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="910" y1="337" x2="1065" y2="337" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="309.6302616823954" y1="379.8279010280671" x2="465.4621728970057" y2="410.2151237149161" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="510" y1="415" x2="665" y2="415" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="710" y1="415" x2="865" y2="415" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="910" y1="415" x2="1065" y2="415" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="1109.6302616823955" y1="411.1720989719329" x2="1265.4621728970058" y2="380.7848762850839" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="1309.6302616823955" y1="372.1720989719329" x2="1465.4621728970058" y2="341.7848762850839" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="108.63309110213558" y1="524.7330944701671" x2="266.7086361223305" y2="463.0836319122911" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="110" y1="454" x2="265" y2="454" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="3308.6330911021355" y1="266.26690552983285" x2="3464.8453270121167" y2="327.1896775347256" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="3310.4964002123493" y1="407.00640391718383" x2="3464.8453270121167" y2="346.8103224652744" stroke="#f43f5e" stroke-width="1.8"  opacity="0.7" marker-end="url(#ac)"/>
+<line x1="1309.994061239963" y1="376.4873552427241" x2="2865.007423450046" y2="414.39080594659487" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="2704.2938531780683" y1="197.72380821834014" x2="2873.756985024922" y2="395.99567247915894" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="109.9980602312188" y1="453.7214555896366" x2="2865.0024247109764" y2="415.34818051295423" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<line x1="109.95167444245028" y1="608.6105083870436" x2="2865.0604069469373" y2="416.73686451619545" stroke="rgba(148,163,184,0.38)" stroke-width="1.1"  opacity="0.55" marker-end="url(#a)"/>
+<circle cx="90" cy="64" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<path d="M 90 40.5 A 23.5 23.5 0 1 1 89.99 40.5" fill="none" stroke="#34d399" stroke-width="2.4" stroke-linecap="round"/>
+<text x="90" y="98" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Architechtural planni…</text>
+<circle cx="90" cy="142" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="90" y="174" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Doors &amp; Windows</text>
+<circle cx="90" cy="220" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="90" y="252" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Excavation</text>
+<circle cx="90" cy="298" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<path d="M 90 276.5 A 21.5 21.5 0 1 1 77.36261707571182 280.60613462093863" fill="none" stroke="#fbbf24" stroke-width="2.4" stroke-linecap="round"/>
+<text x="90" y="330" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Gully/ Nani trap fixi…</text>
+<circle cx="90" cy="376" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="90" y="408" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Internal Road Layout</text>
+<circle cx="90" cy="454" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="90" y="486" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Land Profile Marking</text>
+<circle cx="90" cy="532" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="90" y="564" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Landscaping &amp; Planning</text>
+<circle cx="90" cy="610" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="90" y="642" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Painting</text>
+<circle cx="290" cy="220" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="290" y="254" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">RCC Planning &amp; Design</text>
+<circle cx="290" cy="298" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="290" y="330" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">RCC Footing</text>
+<circle cx="290" cy="376" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="290" y="408" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Cleaniing &amp; Cutting</text>
+<circle cx="290" cy="454" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="290" y="486" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Earth Filling &amp; Cutti…</text>
+<circle cx="490" cy="259" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="490" y="293" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Building Layout</text>
+<circle cx="490" cy="337" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="490" y="369" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Rubble Filling GSB</text>
+<circle cx="490" cy="415" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="490" y="447" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Cross Dranage works c…</text>
+<circle cx="690" cy="259" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="690" y="293" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Site Office</text>
+<circle cx="690" cy="337" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="690" y="369" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">WBM ( Laying &amp; Rollin…</text>
+<circle cx="690" cy="415" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="690" y="447" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">CD Excavations</text>
+<circle cx="890" cy="259" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="890" y="293" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">RCC Column &amp; Plinth B…</text>
+<circle cx="890" cy="337" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="890" y="369" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">BMM laying &amp; Rolling</text>
+<circle cx="890" cy="415" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="890" y="447" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">CD PCC</text>
+<circle cx="1090" cy="259" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="1090" y="293" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Murrum filling &amp; Ramm…</text>
+<circle cx="1090" cy="337" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="1090" y="369" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Wearing Course &amp; Silc…</text>
+<circle cx="1090" cy="415" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="1090" y="447" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">1m dia Hume Pipe</text>
+<circle cx="1290" cy="298" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="1290" y="332" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Floor PCC</text>
+<circle cx="1290" cy="376" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="1290" y="408" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">CD Refilling, Ramming…</text>
+<circle cx="1490" cy="259" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="1490" y="293" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">1st Floor Columns</text>
+<circle cx="1490" cy="337" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="1490" y="369" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Curb Laying</text>
+<circle cx="1490" cy="415" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="1490" y="447" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Road Signage</text>
+<circle cx="1690" cy="337" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="1690" y="371" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">2nd Floor Columns</text>
+<circle cx="1890" cy="337" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="1890" y="371" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Ground Floor Brickwork</text>
+<circle cx="2090" cy="337" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="2090" y="371" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">1st Floor Brickwork</text>
+<circle cx="2290" cy="259" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="2290" y="293" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">D&amp;W Frame fixing</text>
+<circle cx="2290" cy="337" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2290" y="369" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">2nd Floor Brickwork</text>
+<circle cx="2290" cy="415" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2290" y="447" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Vitrified clay sewage…</text>
+<circle cx="2490" cy="298" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="2490" y="332" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Internal Neeru Plaster</text>
+<circle cx="2490" cy="376" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2490" y="408" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Sewer Inspection cham…</text>
+<circle cx="2690" cy="181" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="2690" y="215" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">External sand dash pl…</text>
+<circle cx="2690" cy="259" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2690" y="291" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Glazed tiling for Toi…</text>
+<circle cx="2690" cy="337" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2690" y="369" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Kota flooring &amp; skirt…</text>
+<circle cx="2690" cy="415" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2690" y="447" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Marbonite flooring &amp; …</text>
+<circle cx="2690" cy="493" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2690" y="525" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Curb Painting</text>
+<circle cx="2890" cy="259" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2890" y="291" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">1" G.I w/c pipe laying</text>
+<circle cx="2890" cy="337" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="2890" y="371" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Internal wiring with …</text>
+<circle cx="2890" cy="415" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="2890" y="447" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Site Cleaning</text>
+<circle cx="3090" cy="298" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="3090" y="330" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">1/2" G.I w/c pipe lay…</text>
+<circle cx="3090" cy="376" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="3090" y="410" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">3 Phase Wiring</text>
+<circle cx="3290" cy="259" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="3290" y="291" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Garden pipe laying</text>
+<circle cx="3290" cy="337" r="18" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+<text x="3290" y="369" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Genset Installation</text>
+<circle cx="3290" cy="415" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="3290" y="449" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Internal Painting</text>
+<circle cx="3490" cy="337" r="20" fill="rgba(244,63,94,0.14)" stroke="#f43f5e" stroke-width="2"/>
+<text x="3490" y="371" text-anchor="middle" fill="#94a3b8" font-size="8.5" font-family="sans-serif">Plantation</text>
+</svg>
